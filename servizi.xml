@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<elenco_servizi>
+    <servizio tipo = "forza">
+     <nome>bodybuilding</nome>
+     <prezzo>50 euro</prezzo>
+    </servizio>
+    <servizio tipo = "forza">
+     <nome>powerlifting</nome>
+     <prezzo>60 euro</prezzo>
+    </servizio>
+    <servizio tipo = "funzionale">
+     <nome>calinstetichs</nome>
+     <prezzo>40 euro</prezzo>
+    </servizio>
+    <servizio tipo = "funzionale">
+     <nome>trx</nome>
+     <prezzo>30 euro</prezzo>
+    </servizio>
+    <servizio tipo = "gruppo">
+     <nome>zumba</nome>
+     <prezzo>30 euro</prezzo>
+    </servizio>
+    <servizio tipo = "gruppo">
+     <nome>gag</nome>
+     <prezzo>20 euro</prezzo>
+    </servizio>
+    <servizio tipo = "relax">
+     <nome>meditazione</nome>
+     <prezzo>30 euro</prezzo>
+    </servizio>
+    <servizio tipo = "relax">
+     <nome>yoga</nome>
+     <prezzo>25 euro</prezzo>
+    </servizio>
+    <servizio tipo = "combattimento">
+     <nome>boxe</nome>
+     <prezzo>25 euro</prezzo>
+    </servizio>
+    <servizio tipo = "combattimento">
+     <nome>karate</nome>
+     <prezzo>25 euro</prezzo>
+    </servizio>
+</elenco_servizi>
