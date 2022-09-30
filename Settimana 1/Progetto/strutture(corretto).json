@@ -1,0 +1,63 @@
+{
+  "strutture": [
+    {"codice_struttura": "I4JQZQ767LO2RGNNZKE",
+      "ubicazione":[
+        {"indirizzo":{"piazza": "Piazza Diaz","civico": "6"}
+        },"Milano", "Lombardia", "Nord Italia"]
+    },
+    {"codice_struttura": "F41UEC2FGWD8OKCWQ8F",
+      "ubicazione":[
+        {"indirizzo":{"via": "Via dell'Arsenale","civico": "23"}
+        },"Torino", "Piemonte", "Nord Italia"]
+    },
+    {"codice_struttura": "XT6GO7YAHJZXKE93P72",
+      "ubicazione":[
+        {"indirizzo":{"via": "Via Bruno Maderna","civico": "9"}
+        },"Mestre", "Veneto", "Nord Italia"]
+    },
+    {"codice_struttura": "XH0UBWBRG4BBR4LF8D8",
+      "ubicazione":[
+        {"indirizzo":{"via": "Via Paolo Mantovani","civico": "153"}
+        },"Genova", "Liguria", "Nord Italia"]
+    },
+    {"codice_struttura": "HSO3SGR2B6YX1GW13BD",
+      "ubicazione":[
+        {"indirizzo":{"via": "Via di Novoli","civico": "10"}
+        },"Firenze", "Toscana", "Centro Italia"]
+    },
+    {"codice_struttura": "NDS49Q8M38BWYIE9HIK",
+      "ubicazione":[
+        {"indirizzo":{"via": "Via Aldo Moro","civico": "60"}
+        },"Perugia", "Umbria", "Centro Italia"]
+    },
+    {"codice_struttura": "ERXY91JU9106DW2R4P1",
+      "ubicazione":[
+        {"indirizzo":{"via": "Via Francia","civico": "21"}
+        },"Ancona", "Marche", "Centro Italia"]
+    },
+    {"codice_struttura": "HJCJNN3V1XIFITM0NDF",
+      "ubicazione":[
+        {"indirizzo":{"via": "Via Mantova","civico": "1"}
+        },"Roma", "Lazio", "Centro Italia"]
+    },
+    {"codice_struttura": "ZNMQONC8IVL3MCNTRK4",
+      "ubicazione":[
+        {"indirizzo":{"via": "Via Corrado Barbagallo","civico": "53"}
+        },"Napoli", "Campania", "Sud Italia"]
+    },
+    {"codice_struttura": "KVPAZ6J7OEWED8SQHJZ",
+      "ubicazione":[
+        {"indirizzo":{"via": "Via Nazario Sauro","civico": "17"}
+        },"Bari", "Puglia", "Sud Italia"]
+    },
+    {"codice_struttura": "EOH5706Y2URJG9VK9H9",
+      "ubicazione":[
+        {"indirizzo":{"via": "John Fitzgerald Kennedy","civico": "50"}
+        },"Catanzaro", "Calabria", "Sud Italia"]
+    },
+    {"codice_struttura": "E6C99KEZHN20CJRX6EK",
+      "ubicazione":[
+        {"indirizzo":{"via": "Via Gioacchino Ventura","civico": "11"}
+        },"Palermo", "Sicilia", "Sud Italia"]
+  }]
+}
